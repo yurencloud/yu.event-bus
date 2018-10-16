@@ -1,0 +1,29 @@
+{
+  "name": "yu.event-bus",
+  "version": "1.0.1",
+  "description": "event bus util",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "yu.event-bus",
+    "event-bus",
+    "yurencloud",
+    "yuren",
+    "yu",
+    "mackwang",
+    "yurencloud.com"
+  ],
+  "author": {
+    "name": "mackwang",
+    "email": "641212003@qq.com",
+    "url": "http://www.yurencloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yurencloud/yu.event-bus.git"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
